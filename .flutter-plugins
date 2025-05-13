@@ -1,0 +1,22 @@
+# This is a generated file; do not edit or check into version control.
+geocoding=/Users/ruslan/.pub-cache/hosted/pub.dev/geocoding-3.0.0/
+geocoding_android=/Users/ruslan/.pub-cache/hosted/pub.dev/geocoding_android-3.3.1/
+geocoding_ios=/Users/ruslan/.pub-cache/hosted/pub.dev/geocoding_ios-3.0.1/
+geolocator=/Users/ruslan/.pub-cache/hosted/pub.dev/geolocator-13.0.2/
+geolocator_android=/Users/ruslan/.pub-cache/hosted/pub.dev/geolocator_android-4.6.1/
+geolocator_apple=/Users/ruslan/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.9/
+geolocator_web=/Users/ruslan/.pub-cache/hosted/pub.dev/geolocator_web-4.1.1/
+geolocator_windows=/Users/ruslan/.pub-cache/hosted/pub.dev/geolocator_windows-0.2.3/
+location=/Users/ruslan/.pub-cache/hosted/pub.dev/location-8.0.0/
+location_web=/Users/ruslan/.pub-cache/hosted/pub.dev/location_web-6.0.0/
+path_provider=/Users/ruslan/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+path_provider_android=/Users/ruslan/.pub-cache/hosted/pub.dev/path_provider_android-2.2.15/
+path_provider_foundation=/Users/ruslan/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+path_provider_linux=/Users/ruslan/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/ruslan/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+shared_preferences=/Users/ruslan/.pub-cache/hosted/pub.dev/shared_preferences-2.5.2/
+shared_preferences_android=/Users/ruslan/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.8/
+shared_preferences_foundation=/Users/ruslan/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+shared_preferences_linux=/Users/ruslan/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+shared_preferences_web=/Users/ruslan/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.3/
+shared_preferences_windows=/Users/ruslan/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/
